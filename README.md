@@ -3,3 +3,5 @@
 
 ### Esta primeiro aula mostra como criar o primeiro Repositório e tambem fazer o commit.
 
+### Autor: Matheus Ryan
+
